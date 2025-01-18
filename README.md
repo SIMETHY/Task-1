@@ -41,10 +41,6 @@ Simple-Calculator/
    ```
 2. Open the project folder and run `index.html` in a browser.
 
-## Demo
-
-[Live Demo](#) (Replace `#` with the actual link if deployed)
-
 ## License
 
 This project is open-source and available under the MIT License.
