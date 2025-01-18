@@ -37,7 +37,7 @@ Simple-Calculator/
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/simple-calculator.git
+   https://github.com/SIMETHY/Task-1.git
    ```
 2. Open the project folder and run `index.html` in a browser.
 
